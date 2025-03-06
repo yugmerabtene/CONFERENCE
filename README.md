@@ -1,5 +1,3 @@
-
-
 ### **Introduction**
 - Présentation de la conférence et de son objectif
 - Brève présentation de l’IA : définition et concepts de base
